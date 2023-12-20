@@ -20,7 +20,7 @@
 ![image](https://github.com/trafficsurfer/Matching_job_descriptions_and_resumes/assets/92330362/4df893e7-8e39-4134-b027-4a0bc6bb351c)
 ### Пример работы модели
 #### Резюме по вакансии
-![image](https://github.com/trafficsurfer/Matching_job_descriptions_and_resumes/assets/92330362/f0fae8bc-f232-464a-9514-33ea57f4651e)
+![image](https://github.com/trafficsurfer/Matching_job_descriptions_and_resumes/assets/92330362/b4188060-99e9-4ac4-b536-36a53ff8fd57)
 #### Вакансии по резюме
 ![image](https://github.com/trafficsurfer/Matching_job_descriptions_and_resumes/assets/92330362/7537cfff-b281-486e-b680-6bc2dffa7809)
 
